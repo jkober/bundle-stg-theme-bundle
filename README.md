@@ -1,5 +1,5 @@
 # bundle-stg-theme-bundle
-
+d
 Esta nueva rama propone 2 temas customizados utilizando lo siguiente: 
 
 Tema basado en materializecss (http://materializecss.com) para dar soporte completo a proyectos que requieran el diseño materialize definido por google.
